@@ -1,0 +1,11 @@
+build:
+  version: "3.1"
+
+loans:
+  message: "Welcome To EazyBanks Loans related REST APIs"
+  contactDetails:
+    name: "Kartik Prajapati - Developer"
+    email: "Kartik.Prajapati@rishabhsoft.com"
+  onCallSupport:
+    - (999) 3333 7786
+    - (999) 3333 7787

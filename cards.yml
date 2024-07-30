@@ -1,0 +1,11 @@
+build:
+  version: "2.1"
+
+cards:
+  message: "Welcome To EazyBanks Cards related REST APIs"
+  contactDetails:
+    name: "Kartik Prajapati - Developer"
+    email: "Kartik.Prajapati@rishabhsoft.com"
+  onCallSupport:
+    - (999) 2222 7786
+    - (999) 2222 7787

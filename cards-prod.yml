@@ -1,0 +1,11 @@
+build:
+  version: "2.2"
+
+cards:
+  message: "Welcome To EazyBanks Cards related PROD REST APIs"
+  contactDetails:
+    name: "Don Jhoe - Product owner"
+    email: "Don.Jhoe@rishabhsoft.com"
+  onCallSupport:
+    - (999) 2222 2234
+    - (999) 2222 2235

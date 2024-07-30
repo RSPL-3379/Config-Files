@@ -1,0 +1,11 @@
+build:
+  version: "1.2"
+
+accounts:
+  message: "Welcome To EazyBanks accounts related PROD APIs"
+  contactDetails:
+    name: "Don Jhoe - Product owner"
+    email: "Don.Jhoe@rishabhsoft.com"
+  onCallSupport:
+    - (999) 1111 2234
+    - (999) 1111 2235

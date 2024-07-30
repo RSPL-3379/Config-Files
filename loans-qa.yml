@@ -1,0 +1,11 @@
+build:
+  version: "3.3"
+
+loans:
+  message: "Welcome To EazyBanks Loans related QA REST APIs"
+  contactDetails:
+    name: "John Doe - QA"
+    email: "John.Doe@rishabhsoft.com"
+  onCallSupport:
+    - (999) 3333 5667
+    - (999) 3333 5668

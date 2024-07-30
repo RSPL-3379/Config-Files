@@ -1,0 +1,11 @@
+build:
+  version: "3.2"
+
+loans:
+  message: "Welcome To EazyBanks Loans related PROD REST APIs"
+  contactDetails:
+    name: "Don Jhoe - Product owner"
+    email: "Don.Jhoe@rishabhsoft.com"
+  onCallSupport:
+    - (999) 3333 2234
+    - (999) 3333 2235

@@ -1,0 +1,11 @@
+build:
+  version: "2.3"
+
+cards:
+  message: "Welcome To EazyBanks Cards related QA APIs"
+  contactDetails:
+    name: "John Doe - QA"
+    email: "John.Doe@rishabhsoft.com"
+  onCallSupport:
+    - (999) 2222 5667
+    - (999) 2222 5668
