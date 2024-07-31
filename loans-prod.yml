@@ -2,7 +2,7 @@ build:
   version: "3.2"
 
 loans:
-  message: "Welcome To EazyBanks Loans related PRODUCTION REST APIs"
+  message: "Welcome To EazyBanks Loans related Prod REST APIs"
   contactDetails:
     name: "Don Jhoe - Product owner"
     email: "Don.Jhoe@rishabhsoft.com"
